@@ -1,0 +1,49 @@
+{
+  "item_list": [
+    {
+      "type": "skirt",
+      "color": "pink",
+      "img": "../img/pink_s.png"
+    },
+    {
+      "type": "skirt",
+      "color": "blue",
+      "img": "../img/blue_s.png"
+    },
+    {
+      "type": "skirt",
+      "color": "yellow",
+      "img": "../img/yellow_s.png"
+    },
+    {
+      "type": "pant",
+      "color": "pink",
+      "img": "../img/pink_p.png"
+    },
+    {
+      "type": "pant",
+      "color": "blue",
+      "img": "../img/blue_p.png"
+    },
+    {
+      "type": "pant",
+      "color": "yellow",
+      "img": "../img/yellow_p.png"
+    },
+    {
+      "type": "t-shirt",
+      "color": "pink",
+      "img": "../img/pink_t.png"
+    },
+    {
+      "type": "t-shirt",
+      "color": "blue",
+      "img": "../img/blue_t.png"
+    },
+    {
+      "type": "t-shirt",
+      "color": "yellow",
+      "img": "../img/yellow_t.png"
+    }
+  ]
+}
